@@ -2,4 +2,4 @@ This is first test file
 This is for practice purpose.
 Hello.
 Hii there!
-
+Merging code
